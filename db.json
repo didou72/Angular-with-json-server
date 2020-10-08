@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "label": "Learn Spring boot",
+      "completed": false
+    },
+    {
+      "label": "Learn AdonisJS",
+      "completed": false,
+      "id": 3
+    },
+    {
+      "label": "Learn JAVA",
+      "completed": true,
+      "id": 4
+    },
+    {
+      "label": "learn MEAN STACK",
+      "completed": false,
+      "id": 5
+    },
+    {
+      "label": "Learn c#",
+      "completed": true,
+      "id": 6
+    },
+    {
+      "label": "learn PHP",
+      "completed": false,
+      "id": 7
+    }
+  ]
+}
